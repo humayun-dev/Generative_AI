@@ -17,6 +17,12 @@
         </ul>
     </li>
     <li>
-        Dynamic Prompts
+         Prompts
+         <ul>
+            <li>Dynamic Prompts having templates</li>
+            <li>Chatbot (keeps previous record as well)</li>
+         </ul>
     </li>
+
+
 </ol>
