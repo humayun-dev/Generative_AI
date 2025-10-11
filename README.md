@@ -23,6 +23,14 @@
             <li>Chatbot (keeps previous record as well)</li>
          </ul>
     </li>
+    <li>
+        Structured output format
+        <ul>
+            <li>Type Dict</li>
+            <li>Pydantic</li>
+            <li>JSON Schema</li>
+        </ul>
+    </li>
 
 
 </ol>
