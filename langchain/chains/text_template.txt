@@ -1,0 +1,20 @@
+Generative AI (or GenAI) is a type of artificial intelligence that can create new content—text, images, audio, video, and code—in response to a user's prompt or request.
+
+Instead of just analyzing or classifying existing data (like a traditional AI that recognizes a cat in a photo), a Generative AI can produce a brand-new image of a cat that has never existed before.
+
+Key Characteristics:
+Creation, Not Just Classification: The primary function is to generate novel content rather than predict a label or classify data.
+
+Foundation Models: Generative AI is powered by large-scale machine learning models called Foundation Models (FMs). These are models trained on massive, diverse datasets.
+
+Learning Patterns: The models learn the underlying patterns, structure, and relationships in the training data (e.g., grammar and context in text, colors and shapes in images). They then use these learned patterns to intelligently predict the next word, pixel, or sound.
+
+
+Natural Language Input: Most modern GenAI systems are controlled using natural language prompts (e.g., "Write a haiku about a robot," or "Generate an image of a dog wearing a spacesuit").
+
+Common Examples:
+Content Type	Technology/Model Class	Examples
+Text & Code	Large Language Models (LLMs)	ChatGPT, Gemini, Claude, GitHub Copilot
+Images	Diffusion Models (e.g., GANs, VAEs)	DALL-E, Midjourney, Stable Diffusion
+Video	Text-to-Video Models	Sora, Veo
+Audio & Music	Various Neural Networks	Tools for voice synthesis, music composition
