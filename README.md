@@ -62,6 +62,7 @@
             <li>Text Splitters</li>
             <li>Vector Databases</li>
             <li>Retrievers</li>
+            <li>Youtube Video Analysis and Summarization</li>
         </ul>
     </li>
 
